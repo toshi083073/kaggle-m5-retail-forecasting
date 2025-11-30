@@ -204,4 +204,11 @@ cython_debug/
 # Marimo
 marimo/_static/
 marimo/_lsp/
+
+data/
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+output/
+
 __marimo__/
